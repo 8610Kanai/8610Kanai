@@ -1,4 +1,4 @@
-### Hi there 👋
+### Put the learning outcomes here.
 
 <!--
 **8610Kanai/8610Kanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
